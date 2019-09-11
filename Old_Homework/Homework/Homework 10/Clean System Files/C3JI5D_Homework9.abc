@@ -1,0 +1,302 @@
+.comp 920 00011101001
+.start __C3JI5D_Homework9_Start
+.depend "_SystemEnum" "20180323232545"
+.depend "StdEnum" "20180323232545"
+.depend "StdMisc" "20180323232545"
+.depend "StdFunc" "20180323232545"
+.depend "StdCharList" "20180323232545"
+.depend "StdTuple" "20180323232545"
+.depend "StdOrdList" "20180323232545"
+.depend "StdList" "20180323232545"
+.depend "StdClass" "20180323232545"
+.depend "StdFile" "20180323232545"
+.depend "StdString" "20180323232545"
+.depend "_SystemArray" "20180323232545"
+.depend "StdArray" "20180323232544"
+.depend "StdChar" "20180323232545"
+.depend "StdReal" "20180323232545"
+.depend "StdInt" "20180323232545"
+.depend "StdOverloaded" "20180323232545"
+.depend "StdBool" "20180323232545"
+.depend "StdEnv" "20180323232545"
+.module m_C3JI5D_Homework9 "C3JI5D_Homework9" "20180430141533"
+.endinfo
+.implab _cycle_in_spine
+.implab _type_error
+.implab _hnf
+.impdesc _ind
+.implab _indirection _eaind
+.impdesc e_system_dif
+.implab e_system_nif e_system_eaif
+.implab e_system_sif
+.impdesc e_system_dAP
+.implab e_system_nAP e_system_eaAP
+.implab e_system_sAP
+.impdesc _Nil
+.impdesc _Cons
+.impdesc _Conss
+.implab n_Conss ea_Conss
+.impdesc _Consts
+.implab n_Consts ea_Consts
+.impdesc _Conssts
+.implab n_Conssts ea_Conssts
+.impdesc _Tuple
+.impdesc d_S.1
+.implab n_S.1 ea_S.1
+.impdesc d_S.2
+.implab n_S.2 ea_S.2
+.impdesc d_S.3
+.implab n_S.3 ea_S.3
+.impdesc d_S.4
+.implab n_S.4 ea_S.4
+.impdesc d_S.5
+.implab n_S.5 ea_S.5
+.impdesc d_S.6
+.implab n_S.6 ea_S.6
+.implab _driver
+.impdesc e_StdList_d++
+.implab e_StdList_s++
+.implab e_StdList_n++ e_StdList_ea++
+.implab e_StdInt_s==;16
+.desc d10 _hnf _add_arg 3 0 "Node"
+.desc d11 _hnf _hnf 0 0 "Leaf"
+.export __C3JI5D_Homework9_Start
+.o 0 0
+__C3JI5D_Homework9_Start
+	build _ 0 n6
+.d 1 0
+	jmp _driver
+.n 0 _ ea6
+.o 1 0
+n6
+	push_node _cycle_in_spine 0
+.o 1 0
+ea6
+.o 1 0
+s6
+	create
+.d 1 0
+	jsr s1
+.o 1 0
+	buildI 3
+	push_a 1
+	update_a 1 2
+	update_a 0 1
+	pop_a 1
+.d 3 0
+	jmp s5
+.n 2 _ ea5
+.o 1 0
+n5
+	push_node _cycle_in_spine 2
+.o 3 0
+ea5
+	jsr_eval 0
+.o 3 0
+s5
+	eq_desc d11 0 0
+	jmp_true case.1
+	jmp case.2
+case.1
+	fillh _Nil 0 2
+	pop_a 2
+.d 1 0
+	rtn
+case.2
+	repl_args 3 3
+	push_a 3
+	jsr_eval 0
+	pushI_a 4
+	pop_a 1
+	push_a 0
+	jsr_eval 0
+	pushI_a 1
+	pop_a 1
+	eqI
+	jmp_false else.3
+	push_a 3
+	push_a 3
+	build _ 2 n5
+	push_a 4
+	push_a 3
+	build _ 2 n5
+	build e_StdList_d++ 2 e_StdList_n++
+	buildh _Nil 0
+	push_a 4
+	push_a 4
+	push_a 4
+	buildh d10 3
+	build _ 1 n4
+	buildh _Cons 2
+	update_a 1 5
+	updatepop_a 0 4
+.d 3 0
+	jmp e_StdList_s++
+else.3
+	push_a 3
+	push_a 3
+	build _ 2 n5
+	push_a 2
+	jsr_eval 0
+	create
+	push_a 6
+	push_a 2
+	update_a 2 3
+	update_a 1 2
+	update_a 0 1
+	pop_a 1
+	buildh _Nil 0
+	update_a 0 8
+	update_a 0 6
+	update_a 0 7
+	pop_a 1
+.d 3 0
+	jsr s5
+.o 1 0
+	update_a 1 5
+	updatepop_a 0 4
+.d 3 0
+	jmp e_StdList_s++
+.n 1 _
+.o 1 0
+n4
+	push_node _cycle_in_spine 1
+.d 1 0
+	jsr ea4
+.o 2 0
+	push_a 1
+	push_a 1
+	fillh _Tuple 2 4
+	pop_a 2
+.d 1 0
+	rtn
+.o 1 0
+ea4
+.o 1 0
+s4
+	eq_desc d10 3 0
+	jmp_true case.4
+	jmp s4.1
+case.4
+	repl_args 3 3
+	pop_a 1
+	jsr_eval 0
+	eq_desc d11 0 0
+	jmp_true case.5
+	jmp case.6
+case.5
+	jsr_eval 1
+	eq_desc d11 0 1
+	jmp_true case.7
+	jmp case.8
+case.7
+	buildI 0
+	buildI 0
+	update_a 1 3
+	updatepop_a 0 2
+.d 2 0
+	rtn
+case.8
+	push_args 1 3 3
+	buildh _Nil 0
+	update_a 0 5
+	pop_a 1
+	update_a 0 2
+	pop_a 2
+	push_a 0
+	buildI 0
+	update_a 1 4
+	updatepop_a 0 3
+.d 2 0
+	rtn
+case.6
+	repl_args 3 3
+	update_a 0 2
+	pop_a 2
+	jsr_eval 1
+	eq_desc d11 0 1
+	jmp_true case.9
+	jmp case.10
+case.9
+	buildI 0
+	push_a 1
+	update_a 1 3
+	updatepop_a 0 2
+.d 2 0
+	rtn
+case.10
+	push_args 1 3 3
+	buildh _Nil 0
+	update_a 0 5
+	pop_a 1
+	update_a 0 2
+	pop_a 2
+	push_a 0
+	push_a 2
+	update_a 1 4
+	updatepop_a 0 3
+.d 2 0
+	rtn
+s4.1
+	pop_a 1
+	pushD m_C3JI5D_Homework9
+	pushD x_4
+.d 0 2 ii
+	jmp _match_error
+.string x_4 "nodeReturn"
+.o 1 0
+s1
+	buildh d11 0
+	buildh d11 0
+	buildI 5
+	buildh d10 3
+	buildh d11 0
+	buildh d11 0
+	buildh d11 0
+	buildh d11 0
+	buildI 8
+	buildh d10 3
+	buildh d11 0
+	buildh d11 0
+	buildI 5
+	buildh d10 3
+	buildI 11
+	buildh d10 3
+	buildI 10
+	buildh d10 3
+	buildI 9
+	buildh d10 3
+	buildI 1
+	buildh d10 3
+	buildh d11 0
+	buildh d11 0
+	buildI 3
+	buildh d10 3
+	buildI 2
+	buildh d10 3
+	buildh d11 0
+	buildh d11 0
+	buildh d11 0
+	buildh d11 0
+	buildI 1
+	buildh d10 3
+	buildI 3
+	buildh d10 3
+	buildI 7
+	buildh d10 3
+	buildI 3
+	buildh d10 3
+	buildh d11 0
+	buildh d11 0
+	buildI 5
+	buildh d10 3
+	buildh d11 0
+	buildh d11 0
+	buildI 6
+	buildh d10 3
+	buildI 2
+	buildh d10 3
+	buildI 4
+	fillh d10 3 3
+.d 1 0
+	rtn
