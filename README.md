@@ -1,4 +1,4 @@
-# Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
+﻿# Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.
@@ -14,7 +14,7 @@ Practice Teacher: [Evan Sitt](https://upload.wikimedia.org/wikipedia/en/7/73/Mr.
 - Email: [Sitt.Evan@gmail.com](sitt.evan@gmail.com)
 - Facebook: [https://www.facebook.com/Evan.Sitt](https://www.facebook.com/evan.sitt)
 
-Consultation Hours: Every Tuesday from 1600pm to 1800pm *(or later, as necessary)*
+Consultation Hours: Lovarda Computer Lab (0-308 South Building) Every Tuesday from 1600pm to 1800pm *(or later, as necessary)*
 
 Grading system: [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.txt](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.txt)
 
