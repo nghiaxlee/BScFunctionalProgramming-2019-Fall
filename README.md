@@ -41,7 +41,7 @@ Clean Specific Books:
 Extensive Documentation of Clean's Built-in Functions:
 [https://cloogle.org/](https://cloogle.org/)
 
-My Own Personal Coursework from when I learned Clean
+My Own Personal Coursework from when I learned Clean:
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Old_Homework](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Old_Homework)
 *(these are **by no means** the best or even correct solutions, but they are there for you to see)*
 
