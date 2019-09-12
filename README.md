@@ -52,5 +52,7 @@ Alternatively, you may also choose to add me on [my Facebook](https://www.facebo
 **Please, feel free to contact me about anything.**
 
 Functional Programming, and Clean itself, are far from the easiest things to pick up. This course is no breeze either. For some, it will click right away, and for some it will click later. Or even never.
+
 ***This is okay.***
+
 You're all good at something different. I'm here to help you with Functional Programming, so please let me help you. No question is a dumb question, and I want you to please ask any and all questions during class. If we have no time during class to address your questions, please bring them up during consultation or contact me to set up an appointment.
