@@ -1,0 +1,415 @@
+.comp 920 00011101001
+.start __C3JI5D_Homework4_Start
+.depend "_SystemEnum" "20180216131615"
+.depend "StdEnum" "20180216131610"
+.depend "StdMisc" "20180216131612"
+.depend "StdFunc" "20180216131611"
+.depend "StdCharList" "20180216131610"
+.depend "StdTuple" "20180216131614"
+.depend "StdOrdList" "20180216131612"
+.depend "StdList" "20180216131612"
+.depend "StdClass" "20180216131610"
+.depend "StdFile" "20180216131611"
+.depend "StdString" "20180216131614"
+.depend "_SystemArray" "20180216131614"
+.depend "StdArray" "20180216131608"
+.depend "StdChar" "20180216131609"
+.depend "StdReal" "20180216131613"
+.depend "StdInt" "20180216131612"
+.depend "StdOverloaded" "20180216131613"
+.depend "StdBool" "20180216131608"
+.depend "StdEnv" "20180216131611"
+.module m_C3JI5D_Homework4 "C3JI5D_Homework4" "20180310184530"
+.endinfo
+.implab _cycle_in_spine
+.implab _type_error
+.implab _hnf
+.impdesc _ind
+.implab _indirection _eaind
+.impdesc e_system_dif
+.implab e_system_nif e_system_eaif
+.implab e_system_sif
+.impdesc e_system_dAP
+.implab e_system_nAP e_system_eaAP
+.implab e_system_sAP
+.impdesc _Nil
+.impdesc _Cons
+.impdesc _Conss
+.implab n_Conss ea_Conss
+.impdesc _Consts
+.implab n_Consts ea_Consts
+.impdesc _Conssts
+.implab n_Conssts ea_Conssts
+.impdesc _Tuple
+.impdesc d_S.1
+.implab n_S.1 ea_S.1
+.impdesc d_S.2
+.implab n_S.2 ea_S.2
+.impdesc d_S.3
+.implab n_S.3 ea_S.3
+.impdesc d_S.4
+.implab n_S.4 ea_S.4
+.impdesc d_S.5
+.implab n_S.5 ea_S.5
+.impdesc d_S.6
+.implab n_S.6 ea_S.6
+.implab _driver
+.implab e_StdList_s!!
+.impdesc e_StdList_dhd
+.implab e_StdList_nhd _
+.impdesc e_StdList_dtl
+.implab e_StdList_ntl e_StdList_eatl
+.implab e_StdList_stake
+.implab e_StdInt_s+;6
+.implab e_StdInt_s-;7
+.implab e_StdInt_s==;16
+.implab e_StdInt_s<;17
+.implab e_StdInt_srem;28
+.export __C3JI5D_Homework4_Start
+.o 0 0
+__C3JI5D_Homework4_Start
+	build _ 0 n4
+.d 1 0
+	jmp _driver
+.n 0 _
+.o 1 0
+n4
+	push_node _cycle_in_spine 0
+.d 0 0
+	jsr ea4
+.o 0 1 i
+	fillI_b 0 0
+	pop_b 1
+.d 1 0
+	rtn
+.o 0 0
+ea4
+.o 0 0
+s4
+	buildh _Nil 0
+	buildI 26
+	buildh _Cons 2
+	buildI 5
+	buildh _Cons 2
+	buildI 1990
+	buildh _Cons 2
+	buildh _Nil 0
+	buildI 10
+	buildh _Cons 2
+	buildI 3
+	buildh _Cons 2
+	buildI 2019
+	buildh _Cons 2
+.d 2 0
+	jmp s3
+.o 2 0
+s3
+	push_a 1
+	build e_StdList_dtl 1 e_StdList_ntl
+	push_a 1
+	build e_StdList_dhd 1 e_StdList_nhd
+	buildh _Cons 2
+.d 1 0
+	jsr s2
+.o 0 1 i
+	push_a 0
+.d 1 0
+	jsr s2
+.o 0 1 i
+	eqI
+	jmp_false else.1
+	pop_a 2
+	pushI 0
+.d 0 1 i
+	rtn
+else.1
+	push_a 0
+.d 1 0
+	jsr s2
+.o 0 1 i
+	push_a 1
+	build e_StdList_dtl 1 e_StdList_ntl
+	push_a 1
+	build e_StdList_dhd 1 e_StdList_nhd
+	buildh _Cons 2
+.d 1 0
+	jsr s2
+.o 0 1 i
+	ltI
+	jmp_false else.2
+	push_a 0
+.d 1 0
+	jsr s2
+.o 0 1 i
+	push_a 1
+	build e_StdList_dtl 1 e_StdList_ntl
+	push_a 1
+	build e_StdList_dhd 1 e_StdList_nhd
+	buildh _Cons 2
+	updatepop_a 0 2
+.d 1 0
+	jsr s2
+.o 0 1 i
+	subI
+	pushI 365
+	push_b 1
+	update_b 1 2
+	update_b 0 1
+	pop_b 1
+	addI
+.d 0 1 i
+	rtn
+else.2
+	push_a 1
+	build e_StdList_dtl 1 e_StdList_ntl
+	push_a 1
+	build e_StdList_dhd 1 e_StdList_nhd
+	buildh _Cons 2
+.d 1 0
+	jsr s2
+.o 0 1 i
+	push_a 0
+.d 1 0
+	jsr s2
+.o 0 1 i
+	ltI
+	jmp_false else.3
+	push_a 0
+.d 1 0
+	jsr s2
+.o 0 1 i
+	push_a 1
+	build e_StdList_dtl 1 e_StdList_ntl
+	push_a 1
+	build e_StdList_dhd 1 e_StdList_nhd
+	buildh _Cons 2
+	updatepop_a 0 2
+.d 1 0
+	jsr s2
+.o 0 1 i
+	subI
+.d 0 1 i
+	rtn
+else.3
+	jmp s3.1
+s3.1
+	pop_a 2
+	pushD m_C3JI5D_Homework4
+	pushD x_3
+.d 0 2 ii
+	jmp _match_error
+.string x_3 "days2wait"
+.o 1 0
+s2
+	push_a 0
+	build _ 1 n9
+	pushI 1
+	push_a 1
+.d 1 1 i
+	jsr e_StdList_s!!
+.o 1 0
+	pushI_a 0
+	pop_a 1
+	pushI 1
+	push_b 1
+	update_b 1 2
+	update_b 0 1
+	pop_b 1
+	subI
+	create
+	push_a 1
+	update_a 1 2
+	update_a 0 1
+	pop_a 1
+.d 2 1 i
+	jsr e_StdList_stake
+.o 1 0
+	pushI 2
+	push_a 1
+	buildh _Nil 0
+	update_a 0 3
+	pop_a 1
+.d 1 1 i
+	jsr e_StdList_s!!
+.o 1 0
+	pushI_a 0
+	pop_a 1
+	updatepop_a 0 1
+.d 1 1 i
+	jmp s6
+.n 1 _ ea9
+.o 1 0
+n9
+	push_node _cycle_in_spine 1
+.o 2 0
+ea9
+.o 2 0
+s9
+	pushI 0
+	push_a 0
+	updatepop_a 0 1
+.d 1 1 i
+	jsr e_StdList_s!!
+.o 1 0
+	pushI_a 0
+	pop_a 1
+.d 1 1 i
+	jmp s1
+.o 1 1 i
+s6
+	eq_desc _Nil 0 0
+	jmp_true case.4
+	jmp case.5
+case.4
+	pop_a 1
+.d 0 1 i
+	rtn
+case.5
+	repl_args 2 2
+	push_a 1
+	jsr_eval 0
+	push_a 1
+	jsr_eval 0
+	pushI_a 2
+	pop_a 1
+	push_b 1
+	addI
+	updatepop_a 0 2
+	updatepop_b 0 1
+.d 1 1 i
+	jmp s6
+.o 1 1 i
+s1
+	pushI 4
+	push_b 1
+	remI
+	pushI 0
+	ltI
+	jmp_false else.6
+	buildh _Nil 0
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 28
+	buildh _Cons 2
+	buildI 31
+	fillh _Cons 2 2
+	pop_b 1
+.d 1 0
+	rtn
+else.6
+	pushI 100
+	push_b 1
+	remI
+	pushI 0
+	ltI
+	jmp_false else.7
+	buildh _Nil 0
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 29
+	buildh _Cons 2
+	buildI 31
+	fillh _Cons 2 2
+	pop_b 1
+.d 1 0
+	rtn
+else.7
+	pushI 400
+	push_b 1
+	remI
+	pushI 0
+	ltI
+	jmp_false else.8
+	buildh _Nil 0
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 28
+	buildh _Cons 2
+	buildI 31
+	fillh _Cons 2 2
+	pop_b 1
+.d 1 0
+	rtn
+else.8
+	buildh _Nil 0
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 30
+	buildh _Cons 2
+	buildI 31
+	buildh _Cons 2
+	buildI 29
+	buildh _Cons 2
+	buildI 31
+	fillh _Cons 2 2
+	pop_b 1
+.d 1 0
+	rtn

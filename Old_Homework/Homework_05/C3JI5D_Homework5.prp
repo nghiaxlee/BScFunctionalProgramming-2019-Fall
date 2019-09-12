@@ -1,0 +1,12 @@
+Version: 1.4
+MainModule
+	Name:	C3JI5D_Homework5
+	Dir:	{Project}
+	DclOpen:	False
+	Icl
+		WindowPosition
+			X:	10
+			Y:	10
+			SizeX:	800
+			SizeY:	640
+	IclOpen:	False
