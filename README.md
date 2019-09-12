@@ -16,6 +16,8 @@ Practice Teacher: [Evan Sitt](https://upload.wikimedia.org/wikipedia/en/7/73/Mr.
 
 Consultation Hours: Every Tuesday from 1600pm to 1800pm *(or later, as necessary)*
 
+Grading system: [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.txt](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.txt)
+
 ## Course Systems
 Canvas Course System:
 [https://canvas.elte.hu/](https://canvas.elte.hu/)
