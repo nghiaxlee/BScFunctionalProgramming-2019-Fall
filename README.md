@@ -2,6 +2,7 @@
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.
+You can easily access this Git repo via: [http://ELTE-BSc-FP.com](http://ELTE-BSc-FP.com) or [http://ELTE-BSc-FP.org](http://ELTE-BSc-FP.org)
 Additional practice and help files may be uploaded here as well. For those who need help with Git, you can learn some more over at: [https://learngitbranching.js.org/](https://learngitbranching.js.org/) Though to be perfectly honest, most of Git is learned by using it, and via trial and error.
 
 ## Course Information
