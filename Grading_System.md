@@ -17,3 +17,4 @@ A more specific breakdown of marks:
  - **[20%] Midterm Coding Practical:** 100pts.
  - **[20%] Endterm Coding Practical:** 100pts.
 
+Students **MUST** at least pass every category to receive a final grade. Failing any single category will result in a final grade of 1 (Failing).
