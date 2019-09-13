@@ -34,6 +34,10 @@ BEAD Homework/Examination System:
 *(be sure to change language to English)*
 
 ## Clean Resources
+
+Why Functional?
+[Please read.](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Why_Functional.md)
+
 Download and Install the latest release of Clean:
 [https://clean.cs.ru.nl/Download_Clean](https://clean.cs.ru.nl/Download_Clean)
 
