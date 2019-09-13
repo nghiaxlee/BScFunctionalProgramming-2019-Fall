@@ -11,7 +11,9 @@ Official Course Lecturer: Viktoria Zsok
 - Office: 2-606 South Building
 - Email: [zsv@inf.elte.hu](zsv@inf.elte.hu)
 
-Practice Teacher: [Evan Sitt](https://upload.wikimedia.org/wikipedia/en/7/73/Mr._Clean_logo.png)
+Practice Instructor: [Evan Sitt]
+
+![Mr. Clean](https://upload.wikimedia.org/wikipedia/en/7/73/Mr._Clean_logo.png)
 - Email: [Sitt.Evan@gmail.com](sitt.evan@gmail.com)
 - Facebook: [https://www.facebook.com/Evan.Sitt](https://www.facebook.com/evan.sitt)
 
@@ -61,3 +63,7 @@ Functional Programming, and Clean itself, are far from the easiest things to pic
 ***This is okay.***
 
 You're all good at something different. I'm here to help you with Functional Programming, so please let me help you. No question is a dumb question, and I want you to please ask any and all questions during class. If we have no time during class to address your questions, please bring them up during consultation or contact me to set up an appointment.
+
+And please, **try to have fun!**
+
+![For your consideration.](http://www.phdcomics.com/comics/archive/phd051013s.gif)
