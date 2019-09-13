@@ -1,4 +1,6 @@
-﻿Your mark will be determined by the combination of your marks across:
+# Grading System Breakdown
+
+Your mark will be determined by the combination of your marks across:
 -  Homework
 -  Classwork
 -  Theoretical Quizzes + Tests
