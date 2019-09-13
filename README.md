@@ -18,6 +18,10 @@ Consultation Hours: Lovarda Computer Lab (0-308 South Building) Every Tuesday fr
 
 Grading system: [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.md)
 
+## Homework and Classwork Policy
+Late homework and classwork will not be accepted.
+Any suspicious code and/or cheating will result in a score of **'0'** for both parties.
+
 ## Course Systems
 Canvas Course System:
 [https://canvas.elte.hu/](https://canvas.elte.hu/)
