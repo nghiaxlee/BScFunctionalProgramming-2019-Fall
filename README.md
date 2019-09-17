@@ -1,7 +1,7 @@
 # Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
 
 ## Latest Announcement
-**Friday, September 20th is UNESCO Sports Day, which means that there will be NO LECTURE OR PRACTICE held on that day.**
+**None yet. Please stay tuned.**
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
