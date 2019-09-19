@@ -1,7 +1,7 @@
 # Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
 
 ## Latest Announcement
-**None yet. Please stay tuned.**
+**Lecture on 2019, September, 19th will be held at 1.71 in the North Building (Pócza Jenő terem).**
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
@@ -25,6 +25,9 @@ Lovarda Computer Lab (0-308 South Building) Every Tuesday from 1600pm to 1800pm 
 
 Grading system:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.md)
+
+Important Dates:\
+[https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md]9https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md)
 
 ## Homework and Classwork Policy
 Late homework and classwork will not be accepted.\
