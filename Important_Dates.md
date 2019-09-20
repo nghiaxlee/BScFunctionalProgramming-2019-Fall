@@ -6,4 +6,4 @@ These are important dates that you should mark down on your calendar. This docum
 **2019, November, 8th [16:00pm - 18:30pm] Lovarda S0.308** - Midterm Exam\
 **To Be Announced** - Midterm Retake\
 **2019, December, 13th [16:00pm - 18:30pm] Lovarda S0.308** - Endterm Exam\
-**To Be Announced** - Endterm Retake\
+**To Be Announced** - Endterm Retake
