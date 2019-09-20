@@ -23,6 +23,9 @@ Practice Instructor: [Evan Sitt]
 Consultation Hours:\
 Lovarda Computer Lab (0-308 South Building) Every Tuesday from 1600pm to 1800pm *(or later, as necessary)*
 
+Tutors:\
+[https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Tutor_Contacts.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Tutor_Contacts.md)
+
 Grading system:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.md)
 
