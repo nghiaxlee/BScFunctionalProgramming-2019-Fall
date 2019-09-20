@@ -10,7 +10,7 @@ Additional practice and help files may be uploaded here as well. For those who n
 
 ## Course Information
 Official Course Lecturer: Viktoria Zsok
-- Website: [http://zsv.web.elte.hu/Clean](http://zsv.web.elte.hu/Clean)
+- Website: [http://zsv.web.elte.hu/clean](http://zsv.web.elte.hu/clean)
 - Office: 2-606 South Building
 - Email: [zsv@inf.elte.hu](zsv@inf.elte.hu)
 
