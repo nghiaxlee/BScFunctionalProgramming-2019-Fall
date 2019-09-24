@@ -1,7 +1,7 @@
 # Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
 
 ## Latest Announcement
-### Don't forget to review last week's lecture (Lecture 1) for this week's quiz!
+#### Don't forget to review last week's lecture (Lecture 1) for this week's quiz!
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
