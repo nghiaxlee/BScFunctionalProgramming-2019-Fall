@@ -35,8 +35,7 @@ Important Dates:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md)
 
 Official Discord Server:\
-[https://discord.gg/w4yfXmP]
-(https://discord.gg/w4yfXmP)
+[https://discord.gg/w4yfXmP](https://discord.gg/w4yfXmP)
 
 ## Homework and Classwork Policy
 Late homework and classwork will not be accepted.\
