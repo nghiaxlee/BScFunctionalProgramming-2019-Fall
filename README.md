@@ -2,6 +2,7 @@
 
 ## Latest Announcement
 #### Don't forget to review last week's lecture (Lecture 1) for this week's quiz!
+#### Group 2 (Thursday 1000-1200) will get their quiz scores manually readjusted, our apologies!
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
