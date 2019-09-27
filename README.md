@@ -2,7 +2,7 @@
 
 ## Latest Announcement
 ### Official Discord Server is up: [https://discord.gg/w4yfXmP](https://discord.gg/w4yfXmP) Please join to talk about FP and throw your questions there! 
-#### Don't forget to review last week's lecture (Lecture 1) for this week's quiz!
+#### Homework 1 is now uploaded on [BEAD](bead.inf.elte.hu) and here on my website.
 #### Group 2 (Thursday 1000-1200) will get their quiz scores manually readjusted, our apologies!
 
 ## General Info
