@@ -27,7 +27,7 @@ import StdEnv
   */
 //isPrime :: Int -> Bool
 //Start = isPrime 5 //True
-//Start = isPrime ~3 //False (Negative numbers don't count, only Natural numbers)
+//Start = isPrime (~3) //False (Negative numbers don't count, only Natural numbers)
 //Start = isPrime 0 //False
 //Start = isPrime 1 //False
 //Start = isPrime 28736 //False
@@ -46,4 +46,4 @@ import StdEnv
 //Start = isPalindrome 55 //True
 //Start = isPalindrome 49594 //True
 //Start = isPalindrome 1337 //False
-//Start = isPalindrome ~57975 //False
+//Start = isPalindrome (~57975) //False
