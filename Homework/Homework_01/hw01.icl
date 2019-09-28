@@ -26,11 +26,11 @@ import StdEnv
   * Total: 30pts
   */
 //isPrime :: Int -> Bool
-//Start isPrime 5 //True
-//Start isPrime ~3 //False (Negative numbers don't count, only Natural numbers)
-//Start isPrime 0 //False
-//Start isPrime 1 //False
-//Start isPrime 28736 //False
+//Start = isPrime 5 //True
+//Start = isPrime ~3 //False (Negative numbers don't count, only Natural numbers)
+//Start = isPrime 0 //False
+//Start = isPrime 1 //False
+//Start = isPrime 28736 //False
 
 /**
   * Write a function that takes an integer 'x'
@@ -42,8 +42,8 @@ import StdEnv
   * Total: 40pts
   */
 //isPalindrome :: Int -> Bool
-//Start isPalindrome 0 //True
-//Start isPalindrome 55 //True
-//Start isPalindrome 49594 //True
-//Start isPalindrome 1337 //False
-//Start isPalindrome ~57975 //False
+//Start = isPalindrome 0 //True
+//Start = isPalindrome 55 //True
+//Start = isPalindrome 49594 //True
+//Start = isPalindrome 1337 //False
+//Start = isPalindrome ~57975 //False
