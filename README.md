@@ -21,6 +21,8 @@ Practice Instructor: [Evan Sitt]
 ![Mr. Clean](https://upload.wikimedia.org/wikipedia/en/7/73/Mr._Clean_logo.png)
 - Email: [Sitt.Evan@gmail.com](sitt.evan@gmail.com)
 - Facebook: [https://www.facebook.com/Evan.Sitt](https://www.facebook.com/evan.sitt)
+- Office: 2-402 South Building
+- Office hours: Mondays after 14:00pm. Please email me in advance for consultations, as I may be at Ericsson. :)
 
 Consultation Hours:\
 Lovarda Computer Lab (0-308 South Building) Every Tuesday from 1600pm to 1800pm *(or later, as necessary)*
