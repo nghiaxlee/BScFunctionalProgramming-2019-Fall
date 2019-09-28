@@ -3,7 +3,6 @@
 ## Latest Announcement
 ### Official Discord Server is up: [https://discord.gg/w4yfXmP](https://discord.gg/w4yfXmP) Please join to talk about FP and throw your questions there! 
 #### Homework 1 is now uploaded on [BEAD](bead.inf.elte.hu) and [here on my website](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Homework/Homework_01/hw01.icl).
-#### Group 2 (Thursday 1000-1200) will get their quiz scores manually readjusted, our apologies!
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
