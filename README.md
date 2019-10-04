@@ -22,6 +22,7 @@ Practice Instructor: [Evan Sitt]
 ![Mr. Clean](https://upload.wikimedia.org/wikipedia/en/7/73/Mr._Clean_logo.png)
 - Email: [Sitt.Evan@gmail.com](sitt.evan@gmail.com)
 - Facebook: [https://www.facebook.com/Evan.Sitt](https://www.facebook.com/evan.sitt)
+- WhatsApp: +36 70 292 0784
 - Office: 2-402 South Building
 - Office hours: Mondays after 14:00pm. Please email me in advance for consultations, as I may be at Ericsson. :)
 
@@ -78,7 +79,7 @@ My Own Personal Coursework from when I learned Clean:\
 
 ## Contact Me
 I am best reachable via [my email](sitt.evan@gmail.com). I check this pretty frequently.\
-Alternatively, you may also choose to add me on [my Facebook](https://www.facebook.com/Evan.Sitt) and message me via Messenger, although please keep in mind that I may not be able to reply instantly.
+Alternatively, you may also choose to add me on [my Facebook](https://www.facebook.com/Evan.Sitt) and message me via Messenger or message me via WhatsApp, although please keep in mind that I may not be able to reply instantly.
 
 **Please, feel free to contact me about anything.**
 
