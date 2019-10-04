@@ -1,0 +1,9 @@
+StdInt isOdd;19 0 0 6 12 12 375
+_SystemEnum _f8._from_to;17._from_to;17.+;6.one;11 0 6 0 12 0 352
+StdInt isEven;18 0 0 6 12 12 317
+_SystemEnum _from_to;17 7 0 0 7 30 156
+_SystemEnum _from_to;6 0 1 0 2 0 379
+StdList filter 0 8 0 27 18 3626
+cw02g1_Solutions f3 1 0 0 1 9 16
+cw02g1_Solutions Start 0 1 0 2 3 57
+System start 0 0 0 9 3 3287237

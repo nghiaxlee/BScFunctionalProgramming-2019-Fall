@@ -1,0 +1,12 @@
+Version: 1.4
+MainModule
+	Name:	listStuff
+	Dir:	{Project}
+	DclOpen:	False
+	Icl
+		WindowPosition
+			X:	-8
+			Y:	-31
+			SizeX:	1280
+			SizeY:	666
+	IclOpen:	False
