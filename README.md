@@ -1,7 +1,8 @@
 # Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
 
 ## Latest Announcement
-### Official Discord Server is up: [https://discord.gg/w4yfXmP](https://discord.gg/w4yfXmP) Please join to talk about FP and throw your questions there! 
+### Official Discord Server is up: [https://discord.gg/w4yfXmP](https://discord.gg/w4yfXmP) Please join to talk about FP and throw your questions there!
+### Consultation livestreams will be held on Discord on Saturdays at 1300pm. Please come prepared with questions and your brain! *(no zombies allowed)*
 #### Homework 1 is now uploaded on [BEAD](bead.inf.elte.hu) and [here on my website](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Homework/Homework_01/hw01.icl).
 #### [Quiz 1 for all groups + solutions has been uploaded.](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Quizzes/Quiz_01)
 
@@ -37,7 +38,8 @@ Important Dates:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md)
 
 Official Discord Server:\
-[https://discord.gg/w4yfXmP](https://discord.gg/w4yfXmP)
+[https://discord.gg/w4yfXmP](https://discord.gg/w4yfXmP)\
+Livestream Consultations will be held on the Discord channel **every Saturday at 13:00pm** *(unless I state otherwise)*
 
 ## Homework and Classwork Policy
 Late homework and classwork will not be accepted.\
