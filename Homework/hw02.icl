@@ -14,7 +14,7 @@ import StdEnv
 //FibList :: Int -> [Int]
 //Start = FibList 8 //[1,1,2,3,5,8,13,21]
 //Start = FibList -3 //[]
-//Start = FibList 0 //[1]
+//Start = FibList 0 //[]
 
 
 
