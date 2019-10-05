@@ -3,7 +3,6 @@
 ## Latest Announcement
 ### Official Discord Server is up: [https://discord.gg/w4yfXmP](https://discord.gg/w4yfXmP) Please join to talk about FP and throw your questions there!
 ### First Consultation Livestream is now uploaded on Youtube: [https://www.youtube.com/watch?v=_2dTlXC1Ie0](https://www.youtube.com/watch?v=_2dTlXC1Ie0)
-(https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Homework/Homework_01/hw01.icl).
 #### [Quiz 2 for all groups + solutions has been uploaded.](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Quizzes/Quiz_02) Also, Group 1 and 4 have had their scores adjusted.
 
 ## General Info
