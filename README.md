@@ -2,9 +2,9 @@
 
 ## Latest Announcement
 ### Official Discord Server is up: [https://discord.gg/w4yfXmP](https://discord.gg/w4yfXmP) Please join to talk about FP and throw your questions there!
-### Consultation livestreams will be held on Discord on Saturdays at 1300pm. Please come prepared with questions and your brain! *(no zombies allowed)*
-#### Homework 1 is now uploaded on [BEAD](bead.inf.elte.hu) and [here on my website](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Homework/Homework_01/hw01.icl).
-#### [Quiz 1 for all groups + solutions has been uploaded.](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Quizzes/Quiz_01)
+### First Consultation Livestream is now uploaded on Youtube: [https://www.youtube.com/watch?v=_2dTlXC1Ie0](https://www.youtube.com/watch?v=_2dTlXC1Ie0)
+(https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Homework/Homework_01/hw01.icl).
+#### [Quiz 2 for all groups + solutions has been uploaded.](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Quizzes/Quiz_02) Also, Group 1 and 4 have had their scores adjusted.
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
@@ -22,6 +22,7 @@ Practice Instructor: [Evan Sitt]
 ![Mr. Clean](https://upload.wikimedia.org/wikipedia/en/7/73/Mr._Clean_logo.png)
 - Email: [Sitt.Evan@gmail.com](sitt.evan@gmail.com)
 - Facebook: [https://www.facebook.com/Evan.Sitt](https://www.facebook.com/evan.sitt)
+- Youtube: [https://www.youtube.com/channel/UCPnSp1l8Avgwz8F9SjIWsCg](https://www.youtube.com/channel/UCPnSp1l8Avgwz8F9SjIWsCg)
 - WhatsApp: +36 70 292 0784
 - Office: 2-402 South Building
 - Office hours: Mondays after 14:00pm. Please email me in advance for consultations, as I may be at Ericsson. :)
