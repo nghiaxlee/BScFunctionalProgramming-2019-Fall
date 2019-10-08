@@ -15,7 +15,7 @@ Official Course Lecturer: Viktoria Zsok
 - Office: 2-606 South Building
 - Email: [zsv@inf.elte.hu](zsv@inf.elte.hu)
 
-Practice Instructor: [Evan Sitt]
+Practice Instructor: Evan Sitt
 
 ![Mr. Clean](https://upload.wikimedia.org/wikipedia/en/7/73/Mr._Clean_logo.png)
 - Email: [Sitt.Evan@gmail.com](sitt.evan@gmail.com)
