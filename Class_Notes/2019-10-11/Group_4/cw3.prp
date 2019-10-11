@@ -1,6 +1,0 @@
-Version: 1.4
-MainModule
-	Name:	cw3
-	Dir:	{Project}
-	DclOpen:	False
-	IclOpen:	True
