@@ -1,8 +1,7 @@
 # Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
 
 ## Latest Announcement
-### First Consultation Livestream is now uploaded on Youtube: [https://www.youtube.com/watch?v=_2dTlXC1Ie0](https://www.youtube.com/watch?v=_2dTlXC1Ie0)
-#### [Quiz 2 for all groups + solutions has been uploaded.](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Quizzes/Quiz_02) Also, Group 1 and 4 have had their scores adjusted.
+### Livestream today on Youtube at my channel: [https://www.youtube.com/channel/UCPnSp1l8Avgwz8F9SjIWsCg](https://www.youtube.com/channel/UCPnSp1l8Avgwz8F9SjIWsCg)
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
