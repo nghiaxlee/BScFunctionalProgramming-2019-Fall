@@ -1,7 +1,7 @@
 # Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
 
 ## Latest Announcement
-### Livestream today on Youtube at my channel: [https://www.youtube.com/channel/UCPnSp1l8Avgwz8F9SjIWsCg](https://www.youtube.com/channel/UCPnSp1l8Avgwz8F9SjIWsCg)
+### Livestream complete: https://www.youtube.com/watch?v=hg4kN5i5ET4
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
