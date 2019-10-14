@@ -22,7 +22,11 @@ Practice Instructor: Evan Sitt
 - Youtube: [https://www.youtube.com/channel/UCPnSp1l8Avgwz8F9SjIWsCg](https://www.youtube.com/channel/UCPnSp1l8Avgwz8F9SjIWsCg)
 - WhatsApp: +36 70 292 0784
 - Office: 2-402 South Building
-- Office hours: Mondays after 14:00pm. Please email me in advance for consultations, as I may be at Ericsson. :)
+- Office hours:
+  - Mondays after 14:00pm.
+  - Thursdays after 16:00pm.
+  - Fridays after 16:00pm.
+  - **Please email me in advance for consultations, as I may be at Ericsson. :)**
 
 Consultation Hours:\
 Lovarda Computer Lab (0-308 South Building) Every Tuesday from 1600pm to 1800pm *(or later, as necessary)*
