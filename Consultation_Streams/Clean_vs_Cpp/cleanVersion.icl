@@ -23,10 +23,10 @@ fib 1 = 1
 fib x = fib (x-1) + fib (x-2)
 
 fibonacci :: Int -> Int
-fibonacci x = fibAux x 1 1
+fibonacci x = fibAux x 0 1
 
 fibAux :: Int Int Int -> Int
-fibAux 0 _ b = b
+fibAux 1 _ b = b
 fibAux x a b = fibAux (x-1) b (a+b)
 
 Start = fibonacci 8

@@ -39,12 +39,12 @@ int fib(int x)
 
 int fibonacci (int x)
 {
-    return fibAux(x,1,1);
+    return fibAux(x,0,1);
 }
 
 int fibAux(int x, int a, int b)
 {
-    if(x==0)
+    if(x==1)
         return b;
     return fibAux(x-1,b,a+b);
 }
