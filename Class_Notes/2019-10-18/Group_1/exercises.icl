@@ -27,8 +27,8 @@ something bigList = [ x^2\\x<-[a\\[a:b]<-bigList & x<-bigList] ]
 lastdel bigList = [init subList\\subList <- bigList ]
 
 //[1,2,3,4,5,6]
-//splitList :: [Int] -> [[Int]]
-//splitList ourList = [ [x\\x<-ourList & y<-[1..(length ourList)|isOdd y]], [x\\x<-ourList & y<-[1..(length ourList)|isEven y]] ]
+splitList :: [Int] -> [[Int]]
+splitList ourList = [ [x\\x<-ourList & y<-[1..(length ourList)]|isOdd y], [x\\x<-ourList & y<-[1..(length ourList)]|isEven y] ]
 
 firstElem :: (Int, Int, Int, Int) -> Int
 //firstElem ourTuple = fst3 ourTuple
