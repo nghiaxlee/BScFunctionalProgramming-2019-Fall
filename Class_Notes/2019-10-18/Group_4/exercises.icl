@@ -19,7 +19,7 @@ firsts bigList = [a\\[a:b]<-bigList]
 splitList :: [Int] -> [[Int]]
 splitList ourList = [ [x\\x<-ourList & y<-[1..(length ourList)]|isOdd y] , [x\\x<-ourList & y<-[1..(length ourList)]|isEven y] ]
 
-//Start = splitList [1,3..20]
+Start = splitList [1,3..20]
 
 //(1,"Hello",False,isEven)
 firstElem ourTuple = fst ourTuple
@@ -27,7 +27,7 @@ firstElem ourTuple = fst ourTuple
 //sumTriple ourTriple = fst3 ourTriple + snd3 ourTriple + thd3 ourTriple
 sumTriple (a,b,c) = a+b+c
 
-Start = foldr (\x y = x+y )  0 [1..5]
+//Start = foldr (\x y = x+y )  0 [1..5]
 
 
 reverseList :: [Int] -> [Int]
