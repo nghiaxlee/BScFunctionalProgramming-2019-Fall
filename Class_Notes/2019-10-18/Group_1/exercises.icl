@@ -8,10 +8,10 @@ firsts :: [[Int]] -> [Int]
 //firsts bigList = map hd bigList
 //firsts bigList = map (\[a:rest] = a) bigList
 //firsts bigList =[hd subList\\subList<-bigList]
-firsts bigList = [a\\[a:b]<-bigList & x<-bigList]
+firsts bigList = [a\\[a:b]<-bigList]
 
 
-something bigList = [ x^2\\x<-[a\\[a:b]<-bigList & x<-bigList] ]
+something bigList = [ x^2\\x<-[a\\[a:b]<-bigList] ]
 //Start =  [x+2\\x<-[1..10] | isEven x]
 //[ these go into your list \\ make your variables | filter ]
 
