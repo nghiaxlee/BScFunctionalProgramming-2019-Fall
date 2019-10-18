@@ -21,7 +21,8 @@ f1 n = takeWhile ((>) n) (map fib [1..])
 // Define function myLength, which returns length of a list
 // You must use foldr
 myLength :: [Int] -> Int
-myLength theList = foldr (\ x y = y + 1) 0 theList
+myLength theList = foldr (\ x y = y + 1) 0 theList //Stack overflow
+//myLength theList = foldr (+) 0 (map (\x = 1) theList) //Heap full
 // Start = myLength [] // 0
 // Start = myLength [1,2,3] // 3
 // Start = myLength (take 100 [1..]) // 100
