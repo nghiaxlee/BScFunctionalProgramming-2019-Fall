@@ -1,7 +1,7 @@
 # Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
 
 ## Latest Announcement
-### Livestream complete: https://www.youtube.com/watch?v=hg4kN5i5ET4
+### [Homework solutions have been uploaded for your study purposes.](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Homework)
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
