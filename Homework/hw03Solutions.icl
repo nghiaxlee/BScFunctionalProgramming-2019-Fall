@@ -18,6 +18,8 @@ splitAux niceList [a,b]
     where
         myLength = length a + length b
 
+//Alternate Solution:
+//A much shorter solution.
 splitListShort bigList = [ [x\\x<-bigList&y<-[1..]|isOdd y],[x\\x<-bigList&y<-[1..]|isEven y] ]
 
 //Start = splitList [56,3,87,5,234,5,0,-4] //[[56,87,234,0],[3,5,5,-4]]
@@ -42,6 +44,9 @@ altAux niceList meh
 | isEven meh = niceList!!meh + altAux niceList (meh+1)
 | isOdd meh = (-1*(niceList!!meh)) + altAux niceList (meh+1)
 
+//Alternate Solution:
+//By exploiting the powers of -1, we can flip the signs of the list
+//members before summing them. This also is much faster.
 alternatingSumShort bigList = sum[x*((-1)^y)\\x<-bigList&y<-[0..]]
 
 //Start = alternatingSum [2..7] //-3
@@ -60,6 +65,8 @@ binAux lol hi
 | isEmpty lol = 0
 = last lol * (2^hi) + binAux (init lol) (hi+1)
 
+//Alternate Solution:
+//This one only requires one helper function.
 binaryToDecimalShort bin = sum[x*(2^y)\\x<-reverse(numToList bin)&y<-[0..]]
 
 numToList n
