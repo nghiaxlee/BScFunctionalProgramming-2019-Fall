@@ -49,6 +49,25 @@ altAux niceList meh
 //members before summing them. This also is much faster.
 alternatingSumShort bigList = sum[x*((-1)^y)\\x<-bigList&y<-[0..]]
 
+//Alterante Solution2:
+alternatingSumBetter1 [] = 0
+alternatingSumBetter1 [x:xs] = x - (algernatingSumBetter xs)
+// Example for [1,2,3,4,5]
+// What we want to calculate is 1 - 2 + 3 - 4 + 5
+// Which is same as 1 - (2 - 3 + 4 - 5)
+//                      ^^^^^^^^^^^^^^^  This part is same as alternatingSumBetter1 [2,3,4,5]
+// Hence recursion idea. 
+ 
+
+
+//Alternate Solution3:
+alternatingSumBetter2 list = foldr 0 (-) list
+// Example for [1,2,3,4,5]
+// What we want to calculate is 1 - 2 + 3 - 4 + 5
+// Which is same as 1 - ( 2 - (3 - (4 - (5 - 0) ) ) ).   You can check by opening parentheses.
+// Which is same as foldr 0 (-) list
+
+
 //Start = alternatingSum [2..7] //-3
 //Start = alternatingSum [45,-5,63,46,-345,4321] //-4599
 //Start = alternatingSum [] //0
