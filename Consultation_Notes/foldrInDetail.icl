@@ -1,6 +1,13 @@
 module foldrInDetail
 import StdEnv
 
+/*
+  NOTE: Just to give you a small motivation.
+    Questions about understanding foldr/foldl will likely appear on exam quizzes.
+    (Trust me, it will be a tiny surprise if you did not prepare for it :()
+    Thus, completing the below example using paper and pen is highly recommended.
+*/
+
 //Start = foldr (-) 0 [1..5]
 //^
 //Start
