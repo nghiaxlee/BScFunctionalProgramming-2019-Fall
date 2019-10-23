@@ -1,7 +1,8 @@
 # Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
 
 ## Latest Announcement
-### [Homework solutions have been uploaded for your study purposes.](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Homework)
+### [Homework solutions](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Homework) have been uploaded for your study purposes: [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Homework](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Homework)
+### Please check the [Consultation_Notes](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Consultation_Notes) folder to find some new files. One that shows parallels between C++ and Clean, and one that explains foldr in excruciating detail. [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Consultation_Notes](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Consultation_Notes)
 
 ## General Info
 This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
